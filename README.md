@@ -6,7 +6,7 @@ I created a Blackjack game with Kotlin. It allows a user to play blackjack witho
 
 I decided to do this because I was able to use a lot of different logic operators, classes, and many of Kotlins availible elements.
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/XsHY01lDqGc)
 
 # Development Environment
 
